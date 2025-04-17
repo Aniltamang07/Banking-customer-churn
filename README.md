@@ -86,4 +86,4 @@ Banks are facing significant losses due to high churn rates. Identifying the key
 
 ---
 
-- **Data_source** ![maven_analytics](https://app.mavenanalytics.io/datasets?search=churn)
+- **Data_source** [maven_analytics](https://app.mavenanalytics.io/datasets?search=churn)
