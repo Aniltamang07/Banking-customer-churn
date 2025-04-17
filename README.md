@@ -86,34 +86,4 @@ Banks are facing significant losses due to high churn rates. Identifying the key
 
 ---
 
-## 📂 Dashboard Sections
-
-1. **Churn Dashboard** – Customer churn rate analysis by age, tenure, credit score, card ownership.
-2. **Product Dashboard** – Analysis of product usage and its relationship with churn.
-3. **Active Dashboard** – Focus on active customers, retention rate, and their profiles.
-
----
-
-## 📷 Sample Visuals
-
-<img src="screenshots/churn_dashboard.png" width="600" />
-<img src="screenshots/product_dashboard.png" width="600" />
-<img src="screenshots/active_dashboard.png" width="600" />
-
----
-
-
-
-
-
-
-
-## General Information
-
-To gather and enrich the data, I exported my data from Letterboxd then used Python to request additional data from the TMDb API. The data was then cleaned, processed, and explored in Python (some cleaning were made in Excel as well), before being visualized in Tableau.
-- [Cleaning and data gathering Python script here](consolidate_data.ipynb).
- - [Exploration Python script here](EDA.working_data.ipynb).
-
-Check out the [Letterboxd All-Time Stats - Tableau Workbook](https://public.tableau.com/views/LetterboxdAll-TimeStats/Summary).
-
-For more about my projects and data journey, visit my [Portfolio](https://ruiz.super.site/).
+- **Data_source** ![maven_analytics](https://app.mavenanalytics.io/datasets?search=churn)
