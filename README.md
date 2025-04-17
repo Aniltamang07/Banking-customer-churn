@@ -36,7 +36,9 @@ Banks are facing significant losses due to high churn rates. Identifying the key
 ### 1. Churn by Age
 - Majority of churn occurs between **30 to 50 years** of age.
 - Peak churn is seen around **age 40**.
-  [![Churned by Age](churned_age.png)]
+
+  
+  ![Churned by Age](churned_age.png)
 
 ### 2. Churn by Tenure
 - Higher churn during **early tenure (1–2 years)** and again around **year 9**.
@@ -49,13 +51,19 @@ Banks are facing significant losses due to high churn rates. Identifying the key
 - Customers in the **medium credit score group (600–700)** have the highest churn.
 - Very low and very high credit score groups have more stable retention.
 
+   ![Churned by credit score](Credit_score.png)
+
 ### 5. Product Usage & Churn
 - Churned users are associated with **low product engagement**.
 - Active users tend to have more product usage and higher credit scores.
 
+ ![Product](product.png)
+
 ### 6. Active Customer Breakdown
 - Active customers peak around **ages 35–45**.
 - Tenure years **1–3** show the highest active customer rates.
+
+![Active Customer](Active.png)
 
 ---
 
