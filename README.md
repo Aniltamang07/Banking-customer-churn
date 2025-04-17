@@ -36,6 +36,7 @@ Banks are facing significant losses due to high churn rates. Identifying the key
 ### 1. Churn by Age
 - Majority of churn occurs between **30 to 50 years** of age.
 - Peak churn is seen around **age 40**.
+  (churn_age.png)]
 
 ### 2. Churn by Tenure
 - Higher churn during **early tenure (1–2 years)** and again around **year 9**.
