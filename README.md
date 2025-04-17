@@ -2,6 +2,7 @@
 
 A Power BI dashboard that analyzes and visualizes customer churn data from a bank, providing key metrics, customer behavior insights, and actionable recommendations for business improvement.
 
+[![Power Bi Dashboard](dashboard.png)](https://app.powerbi.com/groups/me/reports/acf9af2c-2cbe-42fe-9b64-2755975492f1/0fd65a742fe4300614d9?experience=power-bi)
 ---
 
 ## 🚀 Overview
