@@ -51,8 +51,6 @@ Banks are facing significant losses due to high churn rates. Identifying the key
 - Customers in the **medium credit score group (600–700)** have the highest churn.
 - Very low and very high credit score groups have more stable retention.
 
-   ![Churned by credit score](Credit_score.png)
-
 ### 5. Product Usage & Churn
 - Churned users are associated with **low product engagement**.
 - Active users tend to have more product usage and higher credit scores.
